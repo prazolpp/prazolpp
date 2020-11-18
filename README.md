@@ -9,8 +9,8 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/prajwalpyakurel) [Twitter](https://www.twitter.com/prajwal_pp)
 - 😄 Pronouns: He/Him
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prazolpp)
-![Prajwal's github stats](https://github-readme-stats.vercel.app/api?username=prazolpp&show_icons=true)](https://www.github.com/prazolpp)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prazolpp&show_icons=true&theme=merko)
+![Prajwal's github stats](https://github-readme-stats.vercel.app/api?username=prazolpp&show_icons=true&theme=merko)](https://www.github.com/prazolpp)
 <!--**prazolpp/prazolpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - ⚡ Fun fact: 
 -->
