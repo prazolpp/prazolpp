@@ -10,7 +10,7 @@
 - 😄 Pronouns: He/Him
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prazolpp)
-![Prajwal's github stats](https://github-readme-stats.vercel.app/api?username=prazolpp&show_icons=true)](www.github.com/prazolpp)
+![Prajwal's github stats](https://github-readme-stats.vercel.app/api?username=prazolpp&show_icons=true)](https://www.github.com/prazolpp)
 <!--**prazolpp/prazolpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - ⚡ Fun fact: 
 -->
