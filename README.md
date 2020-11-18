@@ -3,7 +3,7 @@
 <div>
   <img src="https://media.giphy.com/media/5L57f5fI3f2716NaJ3/giphy.gif" width="250" height="250"/>
   <img src="https://media.giphy.com/media/VUOMN3AJbxSeY/giphy.gif" width="250" height="250"/>
-  <img src="https://media.giphy.com/media/f8cDc3RXtP5sCx2md3/giphy.gif" width="250" height="250"/>
+  <img src="https://media.giphy.com/media/L3cQ7IvIM3TlHUYJFm/giphy.gif" width="250" height="250"/>
 </div>
 
 - 🎓 SJSU 👴 (Senior)
