@@ -1,9 +1,10 @@
 ### Hi there 👋, thanks for coming to this page. Please make yourself comfortable!
 
-
-<img src="https://media.giphy.com/media/VUOMN3AJbxSeY/giphy.gif" style="display:inline-block;" width="250" height="250"/>
-<img src="https://media.giphy.com/media/5L57f5fI3f2716NaJ3/giphy.gif" style="display:inline-block;" width="250" height="250"/>
-<img src="https://media.giphy.com/media/f8cDc3RXtP5sCx2md3/giphy.gif" style="display:inline-block;" width="250" height="250"/>
+<div>
+  <img src="https://media.giphy.com/media/VUOMN3AJbxSeY/giphy.gif" width="250" height="250"/>
+  <img src="https://media.giphy.com/media/5L57f5fI3f2716NaJ3/giphy.gif" width="250" height="250"/>
+  <img src="https://media.giphy.com/media/f8cDc3RXtP5sCx2md3/giphy.gif" width="250" height="250"/>
+</div>
 
 - 🎓 SJSU 👴 (Senior)
 - 🔭 I’m recently completed my internship at [TIBCO](https://www.tibco.com) and I'm currently volunteering at [Code For San Jose](https://https://www.codeforsanjose.com/)
