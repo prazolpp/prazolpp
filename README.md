@@ -1,5 +1,7 @@
 ### Hi there 👋, thanks for coming to this page. Please make yourself comfortable!
 
+# ![](https://media.giphy.com/media/VUOMN3AJbxSeY/giphy.gif)
+
 - 🎓 SJSU 👴 (Senior)
 - 🔭 I’m recently completed my internship at [TIBCO](https://www.tibco.com) and I'm currently volunteering at [Code For San Jose](https://https://www.codeforsanjose.com/)
 - 🌱 I’m currently learning MERN stack, Python and Leetcode problem solving. 
