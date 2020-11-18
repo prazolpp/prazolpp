@@ -17,6 +17,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prazolpp&show_icons=true&theme=merko)
 ![Prajwal's github stats](https://github-readme-stats.vercel.app/api?username=prazolpp&show_icons=true&theme=merko)](https://www.github.com/prazolpp)
+
+
+### Vistor Count
+[![Vistors](https://profile-counter.glitch.me/prazolpp/count.svg)](https://profile-counter.glitch.me/prazolpp/count.svg)
+
 <!--**prazolpp/prazolpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - ⚡ Fun fact: 
 -->
