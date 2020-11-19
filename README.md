@@ -1,4 +1,4 @@
-### Hello there 👋, thanks for coming to this page. Please make yourself comfortable!
+### Hello there 👋, thanks for being here. Please make yourself comfortable!
 
  <img src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" width="480" height="259"/>
  <img src="https://media.giphy.com/media/5L57f5fI3f2716NaJ3/giphy.gif" width="250" height="250"/>
