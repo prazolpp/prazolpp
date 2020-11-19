@@ -1,9 +1,10 @@
 ### Hi there 👋, thanks for coming to this page. Please make yourself comfortable!
 
 <div>
+   <img src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" width="250" height="250"/>
   <img src="https://media.giphy.com/media/5L57f5fI3f2716NaJ3/giphy.gif" width="250" height="250"/>
-  <img src="https://media.giphy.com/media/VUOMN3AJbxSeY/giphy.gif" width="250" height="250"/>
-  <img src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" width="250" height="250"/>
+  <img src="https://media.giphy.com/media/VUOMN3AJbxSeY/giphy.gif" width="480" height="259"/>
+ 
 </div>
 
 - 🎓 SJSU 👴 (Senior)
