@@ -12,7 +12,7 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/prajwalpyakurel) [Twitter](https://www.twitter.com/prajwal_pp)
 - 😄 Pronouns: He/Him
 
-![Prajwal's github stats](https://github-readme-stats.vercel.app/api?username=prazolpp&show_icons=true&theme=merko)](https://www.github.com/prazolpp)
+[![Prajwal's github stats](https://github-readme-stats.vercel.app/api?username=prazolpp&show_icons=true&theme=merko)](https://www.github.com/prazolpp)
 
 
 ### Vistor Count
