@@ -1,12 +1,7 @@
 ### Hello there 👋, thanks for visiting. Please make yourself comfortable!
 
  <img src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" width="480" height="259"/>
-
-- 🎓 SJSU 👴 (Senior)
-- 🔭 I recently completed my internship at [TIBCO](https://www.tibco.com) and I'm currently volunteering at [Code For San Jose](https://https://www.codeforsanjose.com/)
-- 🌱 I’m learning Python, MERN stack and problem solving (leetcode). 
-- 👯 I’m looking to collaborate on projects based on MERN stack, Java Spring Boot, and Python. 
-- 🤔 I’m looking for help with (you've guessed it!) MERN stack, Python and Leetcode. 
+- 💻 Amazon Alexa Connected Devices
 - 💬 Ask me about anything related to programming and computer science.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/prajwalpyakurel) [Twitter](https://www.twitter.com/prajwal_pp)
 - 😄 Pronouns: He/Him
