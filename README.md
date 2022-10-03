@@ -3,9 +3,7 @@
  <img src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" width="480" height="259"/>
  
 - 💻 Amazon Alexa Connected Devices. 
-- 
 - 💬 Ask me about anything related to programming and computer science.
-- 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/prajwalpyakurel)
 - 😄 Pronouns: He/Him
 
