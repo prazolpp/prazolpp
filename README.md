@@ -6,9 +6,6 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/prajwalpyakurel)
 - 😄 Pronouns: He/Him
 
-[![Prajwal's github stats](https://github-readme-stats.vercel.app/api?username=prazolpp&show_icons=true&theme=merko)](https://www.github.com/prazolpp)
-
-
 ### Vistor Count
 [![Vistors](https://profile-counter.glitch.me/prazolpp/count.svg)](https://profile-counter.glitch.me/prazolpp/count.svg)
 
